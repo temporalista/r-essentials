@@ -1,4 +1,4 @@
-mySaveTmap <- function(filename = default_name(plot),
+mySaveTmap <- function(map1,filename = default_name(plot),
                        height = 12,
                        width = 15,
                        units = "cm",
